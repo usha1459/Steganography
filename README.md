@@ -1,4 +1,3 @@
-# 1209-Techi-Tech
 # Steganography App
 
 This Streamlit-based application allows you to securely hide and retrieve messages within images using steganography and encryption techniques. The app has two main functionalities:
